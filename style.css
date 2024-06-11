@@ -1,0 +1,136 @@
+ @media screen and (max-width: 500px) {
+ body {background-color: rgb(230, 20, 195);}
+
+ }
+
+ 
+ 
+    
+ @media screen and (max-width: 500px) { .p1 {font-size:200%;
+    background-color: rgb(80, 253, 0); 
+    border-color:black;
+    border-width:6px ;
+    border-style: solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: start;
+    padding-top: 3%;
+    } 
+}
+
+
+
+
+
+
+
+    
+    
+    .p1 {font-size:200%;
+    background-color: blueviolet; 
+    border-color:black;
+    border-width:6px ;
+    border-style: solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: start;
+    padding-top: 3%;
+    } 
+
+
+    
+    .p2 {font-size:200%;
+        background-color: khaki; 
+        border-color:black;
+        border-width:6px ;
+        border-style: solid;
+        margin-left: 40%;
+        margin-right: 40%;
+        text-align: center;
+        padding-top: 3%;
+        padding-left: 5%
+        }
+    .p3 {font-size:200%;
+        background-color: rgb(235, 212, 12); 
+        border-color:black;
+        border-width:5px ;
+        border-style: solid;
+        margin-right: 30%;
+        text-align: left;
+        padding-right: 10%;
+        padding-left: 20%
+        } 
+    
+        .p4 {font-size:200%;
+            background-color: rgb(235, 12, 198); 
+            border-color:black;
+            border-width:6px ;
+            border-style: solid;
+            margin-left: 60%;
+            text-align: start;
+            padding-left: 10%;
+            }
+    
+    .p5 {font-size:200%;
+        background-color: rgb(12, 235, 105); 
+        border-color:rgb(255, 7, 255);
+        border-width:3px ;
+        border-style: solid;
+        margin-right: 40%;
+        text-align:left;
+        padding-left: 10%;
+        }
+    
+    .p6 {font-size:200%;
+        background-color: rgb(41, 206, 36); 
+        border-color:black;
+        border-width:6px ;
+        border-style: solid;
+        margin-left: 30%;
+        margin-right: 30%;
+        text-align: center;
+        padding-top: 3%;
+        }
+
+        .p7 {font-size:200%;
+            background-color: rgb(241, 255, 44); 
+            border-color:rgb(132, 0, 255);
+            border-width:6px ;
+            border-style: solid;
+            margin-left: 20%;
+            margin-right: 30%;
+            text-align: start;
+            padding-top: 3%;
+            }
+    
+            .p8 {font-size:200%;
+                background-color: rgb(158, 8, 83); 
+                border-color:rgb(0, 255, 255);
+                border-width:6px ;
+                border-style:outset;
+                margin-left: 40%;
+                text-align:justify ;
+                padding-left: 10%;
+                 }
+    
+                 .p9 {font-size:200%;
+                    background-color: rgb(209, 12, 235); 
+                    border-color:black;
+                    border-width:6px ;
+                    border-style:solid;
+                    margin-right: 30%;
+                    text-align: left;
+                    padding-right: 20%;
+                    padding-left: 10%
+                    }
+
+                    .p10 {font-size:200%;
+                        background-color: rgb(29, 8, 48); 
+                        border-color:rgb(255, 255, 255);
+                        border-width:6px ;
+                        border-style: solid;
+                        margin-left: 30%;
+                        margin-right: 30%;
+                        text-align: center;
+                        padding-top: 3%;
+                        }
